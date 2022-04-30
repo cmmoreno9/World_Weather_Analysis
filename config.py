@@ -1,1 +1,2 @@
 weather_api_key= "544bf9684fdde3a877c065f3bc9a35dd"
+g_key= "AIzaSyAIINTGJ3WJ_pzHdmcr4IqWWIp5I_MiK2E"
